@@ -1,8 +1,9 @@
-# BitFinance Frontend
+# BitFinance - The Bridge Frontend
 
 ## About
 
-Frontend repository for the BitFinance Trading Bridge for Quorum.
+Frontend repository for the BitFinance Trading Bridge for Quorum. The BitFinance Trading Bridge provides a solution for being able to exchange ERC-20 and ERC-721 tokens. It utilizes a bridge between two distinct blockchain tokens using the Quorum blockchain environment.
+
 
 ## Functionality
 Getting balances of ERC-20 and ERC-721 wallets.
